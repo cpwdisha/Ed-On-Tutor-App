@@ -1,0 +1,84 @@
+/* style for the body */
+body {
+    background-color: #f5f5f5;
+    font-family: 'Roboto', sans-serif;
+  }
+  
+  /* style for the signup box */
+  .signup-box {
+    background-color: #fff;
+    width: 400px;
+    margin: 0 auto;
+    padding: 50px;
+    border-radius: 10px;
+    box-shadow: 0px 0px 10px #ccc;
+  }
+  
+  /* style for the signup box heading */
+  .signup-box h1 {
+    margin: 0;
+    text-align: center;
+    font-size: 32px;
+    color: #333;
+  }
+  
+  /* style for the h4 tag below the heading */
+  .signup-box h4 {
+    margin-top: 10px;
+    margin-bottom: 30px;
+    font-size: 18px;
+    color: #333;
+    text-align: center;
+  }
+  
+  /* style for the form labels */
+  label {
+    font-size: 18px;
+    color: #333;
+    margin-bottom: 10px;
+    display: block;
+  }
+  
+  /* style for the form input fields */
+  input[type="text"],
+  input[type="email"],
+  input[type="number"],
+  input[type="password"] {
+    padding: 10px;
+    font-size: 16px;
+    border: none;
+    border-radius: 5px;
+    margin-bottom: 20px;
+    width: 100%;
+  }
+  
+  /* style for the submit button */
+  input[type="submit"] {
+    background-color: #333;
+    color: #fff;
+    font-size: 18px;
+    border: none;
+    border-radius: 5px;
+    padding: 10px;
+    cursor: pointer;
+  }
+  
+  /* style for the paragraph below the form */
+  p {
+    margin-top: 20px;
+    text-align: center;
+    font-size: 16px;
+    color: #333;
+  }
+  
+  /* style for the link in the paragraph */
+  p a {
+    color: #333;
+    text-decoration: underline;
+  }
+  
+  /* style for the link on hover */
+  p a:hover {
+    color: #000;
+  }
+  
